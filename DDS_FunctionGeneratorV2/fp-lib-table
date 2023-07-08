@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DDS_FunctionGenerator_Library")(type "KiCad")(uri "${KIPRJMOD}/DDS_FunctionGenerator_Library.pretty")(options "")(descr ""))
+)

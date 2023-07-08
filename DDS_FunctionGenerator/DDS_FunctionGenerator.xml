@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\jakem\Documents\KiCad\6.0\projects\DDS_FunctionGen\DDS_FunctionGenerator\DDS_FunctionGenerator.kicad_sch</source>
+    <date>1/28/2023 4:16:34 PM</date>
+    <tool>Eeschema (6.0.6)</tool>
+    <textvar name="SHEETTOTAL">3</textvar>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>DDS Function Generator</title>
+        <company/>
+        <rev>NC</rev>
+        <date>2022-07-31</date>
+        <source>DDS_FunctionGenerator.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output_Filters.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DDS.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0805" description="CAPACITOR, SMD, 0805"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59ce464c-0ef4-486c-bb2e-8c5e5e724ec6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>074865a3-f9f8-48e6-9063-da12c03aebcc</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0805" description="CAPACITOR, SMD, 0805"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>726635f7-2ec4-462b-b87f-9a82d75f2ae1</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4229dd0c-f325-4834-9008-21559348fb4f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b7387c2-c73f-43cb-9c93-19ac16709d77</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0805" description="CAPACITOR, SMD, 0805"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34354f89-2cbf-42ef-9086-136ea51bc949</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e030637-b1bc-4288-8ac5-67000dcdfeb1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0805" description="CAPACITOR, SMD, 0805"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55232809-3a60-4cfc-a11b-b370eebcbbfc</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fe7d2e2-4627-442f-b6e0-31df01d5e7ea</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0805" description="CAPACITOR, SMD, 0805"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f175459b-2a8d-48b9-98c5-9dde9eb4a2a4</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C11-DNI</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">GRM21BR61H106KE43L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM21BR61H106KE43L"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0861be6d-3488-44c2-929c-e7a238166f90</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">06035C104JAT4A</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="06035C104JAT4A"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33330bc9-b3c5-4e7c-b28e-ca7f5368695a</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>5n6</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">5n6</field>
+        <field name="Part_Number">06035C562JAT2A</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="06035C562JAT2A"/>
+      <property name="Comp_Value" value="5n6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b343ace-951b-4efa-83f3-e51c7665e118</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b73a24e-8eb0-4e81-97df-d447f51aa8b3</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>470R @ 100 MHz</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">470R @ 100MHz</field>
+        <field name="Part_Number">MMZ1608B471CTAH0</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="BEAD_0603" description="FERRITE BEAD, SMD, 0603"/>
+      <property name="Part_Number" value="MMZ1608B471CTAH0"/>
+      <property name="Comp_Value" value="470R @ 100MHz"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a928de8-cda9-4fad-b984-378c6f2db9a4</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>0.152_IN_DIA</value>
+      <footprint>Mounting_Holes:0.152_IN_DIA-6-32</footprint>
+      <fields>
+        <field name="Part_Number">4817</field>
+      </fields>
+      <libsource lib="Mounting_Holes" part="0.152_IN_DIA" description="MOUNTING HOLE, 0.152 IN, DRILL 24"/>
+      <property name="Part_Number" value="4817"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb733b60-489e-4a5d-8493-3f5bdb45dc9b</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>0.152_IN_DIA</value>
+      <footprint>Mounting_Holes:0.152_IN_DIA-6-32</footprint>
+      <fields>
+        <field name="Part_Number">4817</field>
+      </fields>
+      <libsource lib="Mounting_Holes" part="0.152_IN_DIA" description="MOUNTING HOLE, 0.152 IN, DRILL 24"/>
+      <property name="Part_Number" value="4817"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4653a8bd-8933-45b8-9841-76198debcb6c</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>0.152_IN_DIA</value>
+      <footprint>Mounting_Holes:0.152_IN_DIA-6-32</footprint>
+      <fields>
+        <field name="Part_Number">4817</field>
+      </fields>
+      <libsource lib="Mounting_Holes" part="0.152_IN_DIA" description="MOUNTING HOLE, 0.152 IN, DRILL 24"/>
+      <property name="Part_Number" value="4817"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56b6413b-ccca-40ab-93a7-9b2bf200ccaf</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>0.152_IN_DIA</value>
+      <footprint>Mounting_Holes:0.152_IN_DIA-6-32</footprint>
+      <fields>
+        <field name="Part_Number">4817</field>
+      </fields>
+      <libsource lib="Mounting_Holes" part="0.152_IN_DIA" description="MOUNTING HOLE, 0.152 IN, DRILL 24"/>
+      <property name="Part_Number" value="4817"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5749005-5cb8-46b0-870b-fff0339d78f4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>691411410002</value>
+      <footprint>DDS_FunctionGenerator_Library:691411410002</footprint>
+      <fields>
+        <field name="Part_Number">691411410002</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="691411410002" description=""/>
+      <property name="Part_Number" value="691411410002"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8565c1a9-36f3-4f3b-9db2-93ca5406ccb7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SMA_CONN_TH</value>
+      <footprint>Connectors_Coax:SMA_CONN_TH</footprint>
+      <fields>
+        <field name="Part_Number">901-144-8RFX</field>
+      </fields>
+      <libsource lib="Connectors_Coax" part="SMA_CONN_TH" description="CONNECTOR, SMA, THROUGH HOLE"/>
+      <property name="Part_Number" value="901-144-8RFX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdf838b3-23ab-451c-996b-4d210024800e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SMA_CONN_TH</value>
+      <footprint>Connectors_Coax:SMA_CONN_TH</footprint>
+      <fields>
+        <field name="Part_Number">901-144-8RFX</field>
+      </fields>
+      <libsource lib="Connectors_Coax" part="SMA_CONN_TH" description="CONNECTOR, SMA, THROUGH HOLE"/>
+      <property name="Part_Number" value="901-144-8RFX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4e69dcd-52c2-40d4-a448-8493e6327110</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_01X10</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Part_Number">61301011821</field>
+      </fields>
+      <libsource lib="Connectors_Header" part="HEADER_01X10" description="HEADER, 2.54mm Pitch, 1.02 TH"/>
+      <property name="Part_Number" value="61301011821"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d761a023-a94d-4d9c-ba4a-325662a3d161</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>SMA_CONN_TH</value>
+      <footprint>Connectors_Coax:SMA_CONN_TH</footprint>
+      <fields>
+        <field name="Part_Number">901-144-8RFX</field>
+      </fields>
+      <libsource lib="Connectors_Coax" part="SMA_CONN_TH" description="CONNECTOR, SMA, THROUGH HOLE"/>
+      <property name="Part_Number" value="901-144-8RFX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0a80e63-9fbb-47f4-b5a0-80600272718d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>33u</value>
+      <footprint>DDS_FunctionGenerator_Library:7447715330</footprint>
+      <fields>
+        <field name="Comp_Value">33u</field>
+        <field name="Part_Number">7447715330</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="7447715330" description=""/>
+      <property name="Part_Number" value="7447715330"/>
+      <property name="Comp_Value" value="33u"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e898eda9-d23b-4e41-acb9-c3b61417d6ac</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100k</field>
+        <field name="Part_Number">RT0603DRE10100KL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE10100KL"/>
+      <property name="Comp_Value" value="100k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77d7a88a-d2d1-4213-aa51-12a01e4a57ea</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100k</field>
+        <field name="Part_Number">RT0603DRE10100KL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE10100KL"/>
+      <property name="Comp_Value" value="100k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7e80f93-ab00-44fc-840a-ccd36025ec59</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>28k7</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">28k7</field>
+        <field name="Part_Number">RT0603DRE0728K7L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE0728K7L"/>
+      <property name="Comp_Value" value="28k7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c63e38c-b940-4158-b4ce-945d325a6560</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>3M32</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">3M32</field>
+        <field name="Part_Number">RC0603FR-073M32L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RC0603FR-073M32L"/>
+      <property name="Comp_Value" value="3M32"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ece75c8-4432-41bc-ac94-65100e4769c9</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1M</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">1M</field>
+        <field name="Part_Number">RC0603FR-101ML</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RC0603FR-101ML"/>
+      <property name="Comp_Value" value="1M"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2573cad3-00c2-4dce-ac1c-51ab531c8594</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>53k6</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">53k6</field>
+        <field name="Part_Number">RT0603DRE0753K6L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE0753K6L"/>
+      <property name="Comp_Value" value="53k6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ec8de46-348e-4833-8459-e06a8ea2a625</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">10k</field>
+        <field name="Part_Number">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603FRE1310KL"/>
+      <property name="Comp_Value" value="10k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90290b45-7b2e-41bd-9274-604973765fed</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>7k87</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">7k87</field>
+        <field name="Part_Number">RT0603DRE077K87L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE077K87L"/>
+      <property name="Comp_Value" value="7k87"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f656aa08-3584-49ff-9bd3-1d6f1c230fc9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>9k76</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">9k76</field>
+        <field name="Part_Number">RT0603DRE079K76L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE079K76L"/>
+      <property name="Comp_Value" value="9k76"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>121051be-0d67-4379-be65-8dadd84e1f01</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c42cf8a9-2f43-43fe-8a7b-ddab50a12621</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65e6e11b-8acd-4cf0-a400-87183fc1c252</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a1ed2c0-d806-4496-90d0-f880ca366302</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ca0730e-927e-49ed-ba64-09e7079f5207</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f368afee-1e97-4162-8ea1-283e5aeb2249</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint_1.5mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4732c8f6-f4cf-433c-8629-aae02a5bcef4</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ADP151AUJZ</value>
+      <footprint>DDS_FunctionGenerator_Library:TSOT_5Pin</footprint>
+      <fields>
+        <field name="Part_Number">ADP151AUJZ-3.3-R7</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="ADP151AUJZ" description=""/>
+      <property name="Part_Number" value="ADP151AUJZ-3.3-R7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aee7e272-2da3-4bec-9bcd-092635d0b10c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ADP7102</value>
+      <footprint>DDS_FunctionGenerator_Library:LFCSP_WD_8Pin</footprint>
+      <fields>
+        <field name="Part_Number">ADP7102ACPZ-5.0-R7</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="ADP7102" description=""/>
+      <property name="Part_Number" value="ADP7102ACPZ-5.0-R7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7b4a4e8-9310-4ec0-ae06-1e153f93f3e1</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ADP7182AUJZ</value>
+      <footprint>DDS_FunctionGenerator_Library:TSOT_5Pin</footprint>
+      <fields>
+        <field name="Part_Number">ADP7182AUJZ-5.0-R7</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="ADP7182AUJZ" description=""/>
+      <property name="Part_Number" value="ADP7182AUJZ-5.0-R7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>867978a5-0793-4b05-913e-ee3c664538ff</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MAX17580ATC+</value>
+      <footprint>DDS_FunctionGenerator_Library:TDFN-EP_12Pin</footprint>
+      <fields>
+        <field name="Part_Number">MAX17580ATC+</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="MAX17580ATC+" description=""/>
+      <property name="Part_Number" value="MAX17580ATC+"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DDS_FunctionGenerator.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a55ca49b-8ac0-42db-a0e3-92f6f0006bb0</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C15-DNI</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">DNI</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="DNI"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>c9eb9516-867e-4941-b767-dfcdad062495</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>e4cd4231-bae6-48e9-ba08-f3efbe9ec8d0</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>865080345010</value>
+      <footprint>DDS_FunctionGenerator_Library:865080345010</footprint>
+      <fields>
+        <field name="Comp_Value">150u</field>
+        <field name="Part_Number">865080345010</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="865080345010" description="CAP, ALUMINUM ELECTROLYTIC"/>
+      <property name="Part_Number" value="865080345010"/>
+      <property name="Comp_Value" value="150u"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>768908ca-5c5d-447c-819b-d84bbb471437</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>865080345010</value>
+      <footprint>DDS_FunctionGenerator_Library:865080345010</footprint>
+      <fields>
+        <field name="Comp_Value">150u</field>
+        <field name="Part_Number">865080345010</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="865080345010" description="CAP, ALUMINUM ELECTROLYTIC"/>
+      <property name="Part_Number" value="865080345010"/>
+      <property name="Comp_Value" value="150u"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>0c0f6254-57b4-4539-bfb4-d900b92ec761</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>bdbd3d7a-7926-43b4-813d-0a110738c8ff</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>20p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">20p</field>
+        <field name="Part_Number">GCM1885C2A200FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A200FA16D"/>
+      <property name="Comp_Value" value="20p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>31ab6ace-e133-43e4-8b66-511a71c44184</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>82p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">82p</field>
+        <field name="Part_Number">GCM1885C2A820FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A820FA16D"/>
+      <property name="Comp_Value" value="82p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>1bcd0b6e-dbb1-475d-a8e1-0f5d1ec5e747</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>33p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">33p</field>
+        <field name="Part_Number">GRM1885C2A330FA01D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C2A330FA01D"/>
+      <property name="Comp_Value" value="33p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>ecc366d0-d160-4321-9fc4-7ff80e3d8370</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>82p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">82p</field>
+        <field name="Part_Number">GCM1885C2A820FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A820FA16D"/>
+      <property name="Comp_Value" value="82p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>01f856ed-95aa-4d6e-ae23-3cdecdbed274</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>39p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">39p </field>
+        <field name="Part_Number">GRM1885C1H390FA01J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C1H390FA01J"/>
+      <property name="Comp_Value" value="39p "/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>b52d52d8-746f-4b64-ab85-2d09a150a587</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>160p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">160p</field>
+        <field name="Part_Number">GCM1885C2A161GA16J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A161GA16J"/>
+      <property name="Comp_Value" value="160p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>b2dde438-374d-49be-8d1e-41c435a64f99</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>220p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">220p</field>
+        <field name="Part_Number">GCM1885C2A221FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A221FA16D"/>
+      <property name="Comp_Value" value="220p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>5f61ab4f-b274-4591-b053-c3c43882dc3a</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>240p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">240p</field>
+        <field name="Part_Number">GRM1885C1H241GA01J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C1H241GA01J"/>
+      <property name="Comp_Value" value="240p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>2e4d9234-7ba3-4404-8824-288ac0cd4096</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>180p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">180p</field>
+        <field name="Part_Number">VJ0603A181FXACW1BC</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="VJ0603A181FXACW1BC"/>
+      <property name="Comp_Value" value="180p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>13eb549e-028f-4e06-a513-38f35d4be21b</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>67dac7e3-2025-4c7b-8de2-6cf258ce8c1d</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>62p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">62p</field>
+        <field name="Part_Number">GCM1885C2A620FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A620FA16D"/>
+      <property name="Comp_Value" value="62p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>7d8bc3d0-14a5-46fb-8128-13ddac4374fe</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>200p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">200p</field>
+        <field name="Part_Number">GCM1885C2A201FA16J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A201FA16J"/>
+      <property name="Comp_Value" value="200p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>d9cdd92a-dfc3-4b87-b476-cb7a18500004</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>270p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">270p</field>
+        <field name="Part_Number">GCM1885C2A271FA16D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GCM1885C2A271FA16D"/>
+      <property name="Comp_Value" value="270p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>abf19bd3-878f-499c-b6fa-bd53096b967d</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>510p</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">510p</field>
+        <field name="Part_Number">GRM1885C1H511GA01D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C1H511GA01D"/>
+      <property name="Comp_Value" value="510p"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>29db0624-c893-4652-b638-2d0b8bc95135</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W-E3-18</value>
+      <footprint>DDS_FunctionGenerator_Library:SOD-123</footprint>
+      <fields>
+        <field name="Part_Number">1N4148W-E3-18</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="1N4148W-E3-18" description=""/>
+      <property name="Part_Number" value="1N4148W-E3-18"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>09f709d9-06ea-4316-aeea-7ce4572d7497</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148W-E3-18</value>
+      <footprint>DDS_FunctionGenerator_Library:SOD-123</footprint>
+      <fields>
+        <field name="Part_Number">1N4148W-E3-18</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="1N4148W-E3-18" description=""/>
+      <property name="Part_Number" value="1N4148W-E3-18"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>6e543e2f-7842-4dc7-b3f0-bff2c1a176aa</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>DS1E-SL-DC5V</value>
+      <footprint>DDS_FunctionGenerator_Library:DS1E-SL-DC5V</footprint>
+      <fields>
+        <field name="Part_Number">DS1E-SL-DC5V</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="DS1E-SL-DC5V" description=""/>
+      <property name="Part_Number" value="DS1E-SL-DC5V"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>582c96b2-5368-4f0f-82aa-7dcafe1a2a5b</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>DS1E-SL-DC5V</value>
+      <footprint>DDS_FunctionGenerator_Library:DS1E-SL-DC5V</footprint>
+      <fields>
+        <field name="Part_Number">DS1E-SL-DC5V</field>
+      </fields>
+      <libsource lib="" part="DS1E-SL-DC5V_1" description=""/>
+      <property name="Part_Number" value="DS1E-SL-DC5V"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>de4b9794-f10a-414c-9722-a8e8687dd34e</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>330n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">330n</field>
+        <field name="Part_Number">LQW2UASR33F00L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR33F00L"/>
+      <property name="Comp_Value" value="330n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>4f060a86-fb95-4812-9449-53ebd9d71929</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>390n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">390n</field>
+        <field name="Part_Number">LQW2UASR39F00L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR39F00L"/>
+      <property name="Comp_Value" value="390n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>63eb4ba3-01b1-4fa9-9e2d-90d274c27565</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>620n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">620n</field>
+        <field name="Part_Number">LQW2UASR62F0CL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR62F0CL"/>
+      <property name="Comp_Value" value="620n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>80c734ae-a182-4346-b336-5eaba5eb1b2f</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>470n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">470n</field>
+        <field name="Part_Number">LQW2UASR47F0CL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR47F0CL"/>
+      <property name="Comp_Value" value="470n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>d92aedc0-5930-4d7e-9dd3-21bade9a2af2</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>390n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">390n</field>
+        <field name="Part_Number">LQW2UASR39F00L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR39F00L"/>
+      <property name="Comp_Value" value="390n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>c940a04a-d2c4-49b7-aeb0-a09cefe9f4d7</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>580n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">580n</field>
+        <field name="Part_Number">LQW18CAR58J00D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_0603" description="INDUCTOR, SMD, 0603"/>
+      <property name="Part_Number" value="LQW18CAR58J00D"/>
+      <property name="Comp_Value" value="580n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>f7d0443a-6283-4998-a378-d0d483bb21f8</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>820n</value>
+      <footprint>SMD_Passives_Reflow:SMD_1008</footprint>
+      <fields>
+        <field name="Comp_Value">820n</field>
+        <field name="Part_Number">LQW2UASR82F00L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="IND_1008" description="INDUCTOR, SMD, 1008"/>
+      <property name="Part_Number" value="LQW2UASR82F00L"/>
+      <property name="Comp_Value" value="820n"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>457a231a-72c6-408b-b51e-7dc84ce37cf8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>499R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">499R</field>
+        <field name="Part_Number">RT0603DRD07499RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRD07499RL"/>
+      <property name="Comp_Value" value="499R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>87eb560d-677f-45a5-873e-d689a586c515</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>499R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">499R</field>
+        <field name="Part_Number">RT0603DRD07499RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRD07499RL"/>
+      <property name="Comp_Value" value="499R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>0eac645d-52e2-4215-818f-80525907756f</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>249R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">249R</field>
+        <field name="Part_Number">RT0603BRD07249RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603BRD07249RL"/>
+      <property name="Comp_Value" value="249R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>c87731c5-1983-42a5-beb2-5df590229ecf</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100R</field>
+        <field name="Part_Number">CRCW0603100RFKEAHP</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="CRCW0603100RFKEAHP"/>
+      <property name="Comp_Value" value="100R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>b78203b5-b4ad-4a3d-a2a8-bc230ba00080</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100R</field>
+        <field name="Part_Number">CRCW0603100RFKEAHP</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="CRCW0603100RFKEAHP"/>
+      <property name="Comp_Value" value="100R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>54a15816-0413-4d05-a7c2-394a6de8a0a3</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>249R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">249R</field>
+        <field name="Part_Number">RT0603BRD07249RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603BRD07249RL"/>
+      <property name="Comp_Value" value="249R"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>6522cffd-be39-4674-b6be-f6808ce18c90</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>f44cccfb-6aa9-475a-b09b-782f72982a24</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>5ea68299-f731-4eec-9227-41a5fca2fa3a</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>dc9436a7-a6b5-45e7-91cf-268122684367</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>193dcfa2-3a3d-42ed-8cc0-25f3ed35e67b</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>e04b5da2-146f-4a31-b503-7bd30fa78042</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>cdff6700-8f5c-4590-8656-71ab9ef877a9</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>cb80bbef-66cf-4a09-9bd6-436e6fe12902</tstamps>
+    </comp>
+    <comp ref="TP15">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>cc19fef0-b7eb-4394-9bd7-eeb0e87ebee8</tstamps>
+    </comp>
+    <comp ref="TP16">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>28d0d720-f67b-42fe-af3a-867507ccb937</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP14A0602-E/SN</value>
+      <footprint>DDS_FunctionGenerator_Library:SOIC_8Pin</footprint>
+      <fields>
+        <field name="Part_Number">MCP14A0602-E/SN</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="MCP14A0602-E{slash}SN" description=""/>
+      <property name="Part_Number" value="MCP14A0602-E/SN"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>cca8925b-878e-4e33-98d5-7dc990b5e591</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>LT1815IS5</value>
+      <footprint>DDS_FunctionGenerator_Library:TSOT-23_S5-Package</footprint>
+      <fields>
+        <field name="Part_Number">LT1815IS5</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="LT1815IS5" description=""/>
+      <property name="Part_Number" value="LT1815IS5"/>
+      <property name="Sheetname" value="Output_Stage"/>
+      <property name="Sheetfile" value="Output_Filters.kicad_sch"/>
+      <sheetpath names="/Output_Stage/" tstamps="/b5e0dc68-407e-4a34-a444-ac9f355d885f/"/>
+      <tstamps>5bdd7be7-bcad-489c-b95b-9b00bdb2d51d</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_POL_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">TMCP1A106KTRF</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_POL_0805" description="CAPACITOR, POLARIZED, SMD, 0805"/>
+      <property name="Part_Number" value="TMCP1A106KTRF"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>ae75d07f-0564-42a4-abde-835e3e441a80</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>6584c6ac-d629-4eab-87c5-fcf69d43a8c2</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>32168032-cf5b-4415-ac67-b00c2788231b</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>10u</value>
+      <footprint>SMD_Passives_Reflow:SMD_POL_0805</footprint>
+      <fields>
+        <field name="Comp_Value">10u</field>
+        <field name="Part_Number">TMCP1A106KTRF</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_POL_0805" description="CAPACITOR, POLARIZED, SMD, 0805"/>
+      <property name="Part_Number" value="TMCP1A106KTRF"/>
+      <property name="Comp_Value" value="10u"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>3a8682b7-1ec8-4b93-9d72-0e7fb59196cf</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>500f</value>
+      <footprint>SMD_Passives_Reflow:SMD_0402</footprint>
+      <fields>
+        <field name="Comp_Value">500f</field>
+        <field name="Part_Number">GJM1555C1HR50WB01D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0402" description="CAPACITOR, SMD, 0402"/>
+      <property name="Part_Number" value="GJM1555C1HR50WB01D"/>
+      <property name="Comp_Value" value="500f"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>037f089a-e460-48dd-bb2b-524485270cbd</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>10n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">10n</field>
+        <field name="Part_Number">C0603C103J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C103J5RACTU"/>
+      <property name="Comp_Value" value="10n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>539914e6-e8bf-47c7-b72a-bc44817c3a42</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>2ed951ea-5db1-4002-9a2e-e4bb62ca44f5</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>4545815b-7075-4d0c-98ef-1c12b0f6e369</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>d287f291-02c3-4cf7-b3cd-eb8ed0ea5b67</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>C43-DNI</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">DNI</field>
+        <field name="Part_Number">GRM1885C1H200GA01J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C1H200GA01J"/>
+      <property name="Comp_Value" value="DNI"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>ba65fa17-6754-41ed-9ee4-9d29775a0315</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>C44-DNI</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">DNI</field>
+        <field name="Part_Number">GRM1885C1H200GA01J</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM1885C1H200GA01J"/>
+      <property name="Comp_Value" value="DNI"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>4b4e9a8d-1dc3-4ccf-92ad-d31ac7e65146</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>100n</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">100n</field>
+        <field name="Part_Number">C0603C104J5RACTU</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="C0603C104J5RACTU"/>
+      <property name="Comp_Value" value="100n"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>e6d4b940-f1bc-432c-809e-0946d13ed283</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>C46-DNI</value>
+      <footprint>SMD_Passives_Reflow:SMD_0402</footprint>
+      <fields>
+        <field name="Comp_Value">DNI</field>
+        <field name="Part_Number">GJM1555C1HR50WB01D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0402" description="CAPACITOR, SMD, 0402"/>
+      <property name="Part_Number" value="GJM1555C1HR50WB01D"/>
+      <property name="Comp_Value" value="DNI"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>01683363-7fab-4a10-8c56-51e52c853f69</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>daff1fe6-5fe0-4cfb-93a5-b7f6163daa70</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>75545942-1c97-42ee-9fed-c950c51920f9</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>7b3a1729-9f79-4f11-a870-7f26bd4ecacd</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>2u2</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">2u2</field>
+        <field name="Part_Number">GRM188R6YA225KA12D</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="CAP_0603" description="CAPACITOR, SMD, 0603"/>
+      <property name="Part_Number" value="GRM188R6YA225KA12D"/>
+      <property name="Comp_Value" value="2u2"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>d89d9770-de09-4d70-a3cb-2ed078ab935c</tstamps>
+    </comp>
+    <comp ref="POT1">
+      <value>PTN10-E200HB20</value>
+      <footprint>DDS_FunctionGenerator_Library:PTN10-E200HB20</footprint>
+      <fields>
+        <field name="Comp_Value">200k</field>
+        <field name="Part_Number">PTN10-E200HB20</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="PTN10-E200HB20" description="POTENTIOMETER, 200k"/>
+      <property name="Part_Number" value="PTN10-E200HB20"/>
+      <property name="Comp_Value" value="200k"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>291c3f18-1214-463e-a2e3-300a030f5fab</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BFR182W</value>
+      <footprint>DDS_FunctionGenerator_Library:SOT323_BFR182W</footprint>
+      <fields>
+        <field name="Part_Number">BFR182W</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="BFR182W" description="Low Noise NPN Transistor"/>
+      <property name="Part_Number" value="BFR182W"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>d4fdfcc9-9f09-4cbc-b49d-ee93d37f4f40</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BFR182W</value>
+      <footprint>DDS_FunctionGenerator_Library:SOT323_BFR182W</footprint>
+      <fields>
+        <field name="Part_Number">BFR182W</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="BFR182W" description="Low Noise NPN Transistor"/>
+      <property name="Part_Number" value="BFR182W"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>8a26e984-bf03-454c-acd7-220084b9a357</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k78</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">1k78</field>
+        <field name="Part_Number">RT0603DRD071K78L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRD071K78L"/>
+      <property name="Comp_Value" value="1k78"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>745a412b-6711-4b0a-a3d9-dfa50d6e4fa4</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>6k8</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">6k8</field>
+        <field name="Part_Number">RT0603DRE076K8L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE076K8L"/>
+      <property name="Comp_Value" value="6k8"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>2dfcb6e1-da91-4835-acc3-3eacbd77eeb9</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>499R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">499R</field>
+        <field name="Part_Number">RT0603DRE07499RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE07499RL"/>
+      <property name="Comp_Value" value="499R"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>e3a94ca4-ada6-4850-818c-3ca5706b5f74</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1k5</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">1k5</field>
+        <field name="Part_Number">RT0603DRE071K5L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE071K5L"/>
+      <property name="Comp_Value" value="1k5"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>b7ab517a-e4cc-4adc-a953-7cefb6f389c4</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>49R9</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">49R9</field>
+        <field name="Part_Number">RT0603DRE0749R9L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE0749R9L"/>
+      <property name="Comp_Value" value="49R9"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>3479c31f-1d57-4a5c-95ea-5554c1dd85ca</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>200R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">200R</field>
+        <field name="Part_Number">RT0603DRE07200RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE07200RL"/>
+      <property name="Comp_Value" value="200R"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>b9208f88-e4da-42a7-a73d-3ad17bb2eaab</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>200R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">200R</field>
+        <field name="Part_Number">RT0603DRE07200RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE07200RL"/>
+      <property name="Comp_Value" value="200R"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>1fcdb673-762f-4065-b71f-55a9f249c596</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>0R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">0R</field>
+        <field name="Part_Number">RC0603FR-070RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RC0603FR-070RL"/>
+      <property name="Comp_Value" value="0R"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>6f98e3ab-6dc0-40af-8d34-fe0350ddadf6</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>499R</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">499R</field>
+        <field name="Part_Number">RT0603DRE07499RL</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE07499RL"/>
+      <property name="Comp_Value" value="499R"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>4271bfe2-6b10-4fdc-b9f0-28abb827bffc</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1k78</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">1k78</field>
+        <field name="Part_Number">RT0603DRD071K78L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRD071K78L"/>
+      <property name="Comp_Value" value="1k78"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>8006eeb4-23c6-4f44-85da-6bae9af4553e</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1k5</value>
+      <footprint>SMD_Passives_Reflow:SMD_0603</footprint>
+      <fields>
+        <field name="Comp_Value">1k5</field>
+        <field name="Part_Number">RT0603DRE071K5L</field>
+      </fields>
+      <libsource lib="SMD_Passives" part="RES_0603" description="RESISTOR, SMD, 0603"/>
+      <property name="Part_Number" value="RT0603DRE071K5L"/>
+      <property name="Comp_Value" value="1k5"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>1deaa1c1-bdc0-4eab-979a-3b1ab110665b</tstamps>
+    </comp>
+    <comp ref="TP17">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>40357e33-14fc-4b76-a5e2-5f4d1d824bfd</tstamps>
+    </comp>
+    <comp ref="TP18">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>5cedfff6-540f-4160-8aef-cc36ac8c3088</tstamps>
+    </comp>
+    <comp ref="TP20">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>793ec09a-29a7-4eff-a917-45216f0cc41a</tstamps>
+    </comp>
+    <comp ref="TP21">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>9aaff1a0-527a-47fd-be45-da1e75d9f819</tstamps>
+    </comp>
+    <comp ref="TP22">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>32a71843-a6d3-49d8-802f-c356c05f7494</tstamps>
+    </comp>
+    <comp ref="TP23">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>b8c53137-34cb-414e-896d-004f23cebe07</tstamps>
+    </comp>
+    <comp ref="TP24">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>b92f6c16-044d-46e6-9e65-13b73b98364e</tstamps>
+    </comp>
+    <comp ref="TP25">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>f08b06ac-2510-47c7-8ef0-b176b4493063</tstamps>
+    </comp>
+    <comp ref="TP26">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>1ebf4b23-1d6b-4564-b8d3-f3b697b597a1</tstamps>
+    </comp>
+    <comp ref="TP27">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>349084c8-9130-40a4-935f-cdcddd9e5ef8</tstamps>
+    </comp>
+    <comp ref="TP28">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>8616b2c7-f1f8-4ff4-90c1-cd7b6b2c3c27</tstamps>
+    </comp>
+    <comp ref="TP29">
+      <value>TestPoint_0.8mm_PAD</value>
+      <footprint>TestPoint:TestPoint_Pad_D0.8mm</footprint>
+      <fields>
+        <field name="Part_Number">N/A</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Part_Number" value="N/A"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>bd8ccfb2-0b03-4fea-acc5-4c565b99e3f2</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>AD9834</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf</datasheet>
+      <fields>
+        <field name="Part_Number">AD9834</field>
+      </fields>
+      <libsource lib="Interface" part="AD9834" description="10 bit 75 MHz Complete Direct Digital Synthesizer, 2.3V to 5.5V, 20mW, TSSOP-20"/>
+      <property name="Part_Number" value="AD9834"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>1be57464-2720-4ad4-a703-8530b9ad14c0</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>LT1818IS8</value>
+      <footprint>DDS_FunctionGenerator_Library:S8_Package_LT1818</footprint>
+      <fields>
+        <field name="Part_Number">LT1818IS8</field>
+      </fields>
+      <libsource lib="DDS_FunctionGenerator_Library" part="LT1818IS8" description=""/>
+      <property name="Part_Number" value="LT1818IS8"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>dbad22f6-f692-49af-a6cb-c6566ce65608</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>ECS-TXO-2520MV-500-AY-TR</value>
+      <footprint>Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm</footprint>
+      <datasheet>https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf</datasheet>
+      <fields>
+        <field name="Part_Number">ECS-TXO-2520MV-500-AY-TR</field>
+      </fields>
+      <libsource lib="Oscillator" part="ECS-2520MV-xxx-xx" description="HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD"/>
+      <property name="Part_Number" value="ECS-TXO-2520MV-500-AY-TR"/>
+      <property name="Sheetname" value="DDS"/>
+      <property name="Sheetfile" value="DDS.kicad_sch"/>
+      <sheetpath names="/DDS/" tstamps="/a9cf2f71-a5e5-430c-8fcd-46f1505dcb19/"/>
+      <tstamps>98cfdb42-0746-4dce-9c2e-6bae99e54fe6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="DS1E-SL-DC5V_1">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">DS1E-SL-DC5V_1</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:DS1E-SL-DC5V</field>
+        <field name="Part_Number">DS1E-SL-DC5V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connectors_Coax" part="SMA_CONN_TH">
+      <description>CONNECTOR, SMA, THROUGH HOLE</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA_CONN_TH</field>
+        <field name="Footprint">Connectors_Coax:SMA_CONN_TH</field>
+        <field name="Part_Number">901-144-8RFX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connectors_Header" part="HEADER_01X10">
+      <description>HEADER, 2.54mm Pitch, 1.02 TH</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_01X10</field>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical</field>
+        <field name="Part_Number">61301011821</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PIN_1" type="passive"/>
+        <pin num="2" name="PIN_2" type="passive"/>
+        <pin num="3" name="PIN_3" type="passive"/>
+        <pin num="4" name="PIN_4" type="passive"/>
+        <pin num="5" name="PIN_5" type="passive"/>
+        <pin num="6" name="PIN_6" type="passive"/>
+        <pin num="7" name="PIN_7" type="passive"/>
+        <pin num="8" name="PIN_8" type="passive"/>
+        <pin num="9" name="PIN_9" type="passive"/>
+        <pin num="10" name="PIN_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="1N4148W-E3-18">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W-E3-18</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:SOD-123</field>
+        <field name="Part_Number">1N4148W-E3-18</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="691411410002">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">691411410002</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:691411410002</field>
+        <field name="Part_Number">691411410002</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="7447715330">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">7447715330</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:7447715330</field>
+        <field name="Part_Number">7447715330</field>
+        <field name="Comp_Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="865080345010">
+      <description>CAP, ALUMINUM ELECTROLYTIC</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">865080345010</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:865080345010</field>
+        <field name="Part_Number">865080345010</field>
+        <field name="Comp_Value">150u</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="ADP151AUJZ">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADP151AUJZ</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:TSOT_5Pin</field>
+        <field name="Part_Number">ADP151AUJZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="ADP7102">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADP7102</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:LFCSP_WD_8Pin</field>
+        <field name="Part_Number">ADP7102</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="power_out"/>
+        <pin num="2" name="SENSE/ADJ" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="EN/UVLO" type="passive"/>
+        <pin num="6" name="GND" type="power_out"/>
+        <pin num="7" name="PG" type="passive"/>
+        <pin num="8" name="VIN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="ADP7182AUJZ">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADP7182AUJZ</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:TSOT_5Pin</field>
+        <field name="Part_Number">ADP7182AUJZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="VIN" type="input"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="BFR182W">
+      <description>Low Noise NPN Transistor</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BFR182W</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:SOT323_BFR182W</field>
+        <field name="Part_Number">BFR182W</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="DS1E-SL-DC5V">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">DS1E-SL-DC5V</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:DS1E-SL-DC5V</field>
+        <field name="Part_Number">DS1E-SL-DC5V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="LT1815IS5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1815IS5</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:TSOT-23_S5-Package</field>
+        <field name="Part_Number">LT1815IS5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="-IN" type="input"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="LT1818IS8">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1818IS8</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:S8_Package_LT1818</field>
+        <field name="Part_Number">LT1818IS8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="MAX17580ATC+">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX17580ATC+</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:TDFN-EP_12Pin</field>
+        <field name="Part_Number">MAX17580ATC+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="EN/UVLO" type="passive"/>
+        <pin num="3" name="RESET" type="passive"/>
+        <pin num="4" name="SS" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="RT/SYNC" type="passive"/>
+        <pin num="7" name="FB" type="passive"/>
+        <pin num="8" name="SOUT" type="passive"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="BST" type="passive"/>
+        <pin num="11" name="LX" type="passive"/>
+        <pin num="12" name="OUT" type="power_out"/>
+        <pin num="13" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="MCP14A0602-E{slash}SN">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP14A0602-E{slash}SN</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:SOIC_8Pin</field>
+        <field name="Part_Number">MCP14A0602-E/SN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="passive"/>
+        <pin num="2" name="VIN" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="OUT" type="passive"/>
+        <pin num="7" name="OUT" type="passive"/>
+        <pin num="8" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DDS_FunctionGenerator_Library" part="PTN10-E200HB20">
+      <description>POTENTIOMETER, 200k</description>
+      <fields>
+        <field name="Reference">POT</field>
+        <field name="Value">PTN10-E200HB20</field>
+        <field name="Footprint">DDS_FunctionGenerator_Library:PTN10-E200HB20</field>
+        <field name="Part_Number">PTN10-E200HB20</field>
+        <field name="Comp_Value">200k</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface" part="AD9834">
+      <description>10 bit 75 MHz Complete Direct Digital Synthesizer, 2.3V to 5.5V, 20mW, TSSOP-20</description>
+      <docs>https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x6.5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD9834</field>
+        <field name="Footprint">Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</field>
+        <field name="Datasheet">https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FS_ADJUST" type="passive"/>
+        <pin num="2" name="REFOUT" type="output"/>
+        <pin num="3" name="COMP" type="passive"/>
+        <pin num="4" name="AVDD" type="power_in"/>
+        <pin num="5" name="DVDD" type="passive"/>
+        <pin num="6" name="CAP/2.5V" type="passive"/>
+        <pin num="7" name="DGND" type="passive"/>
+        <pin num="8" name="MCLK" type="input"/>
+        <pin num="9" name="FSELECT" type="input"/>
+        <pin num="10" name="PSELECT" type="input"/>
+        <pin num="11" name="RESET" type="input"/>
+        <pin num="12" name="SLEEP" type="input"/>
+        <pin num="13" name="SDATA" type="input"/>
+        <pin num="14" name="SCLK" type="input"/>
+        <pin num="15" name="~{FSYNC}" type="input"/>
+        <pin num="16" name="SIGNBITOUT" type="output"/>
+        <pin num="17" name="VIN" type="passive"/>
+        <pin num="18" name="AGND" type="passive"/>
+        <pin num="19" name="IOUT" type="output"/>
+        <pin num="20" name="IOUTB" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mounting_Holes" part="0.152_IN_DIA">
+      <description>MOUNTING HOLE, 0.152 IN, DRILL 24</description>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">0.152_IN_DIA</field>
+        <field name="Footprint">Mounting_Holes:0.152_IN_DIA-6-32</field>
+        <field name="Part_Number">4817</field>
+      </fields>
+    </libpart>
+    <libpart lib="Oscillator" part="ECS-2520MV-xxx-xx">
+      <description>HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD</description>
+      <docs>https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf</docs>
+      <footprints>
+        <fp>Oscillator*SMD*ECS*2520MV*2.5x2.0mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">ECS-2520MV-xxx-xx</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm</field>
+        <field name="Datasheet">https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Tri-State" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="BEAD_0603">
+      <description>FERRITE BEAD, SMD, 0603</description>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">BEAD_0603</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0603</field>
+        <field name="Comp_Value">FB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="CAP_0402">
+      <description>CAPACITOR, SMD, 0402</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_0402</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0402</field>
+        <field name="Comp_Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="CAP_0603">
+      <description>CAPACITOR, SMD, 0603</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_0603</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0603</field>
+        <field name="Comp_Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="CAP_0805">
+      <description>CAPACITOR, SMD, 0805</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_0805</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0805</field>
+        <field name="Comp_Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="CAP_POL_0805">
+      <description>CAPACITOR, POLARIZED, SMD, 0805</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_POL_0805</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_POL_0805</field>
+        <field name="Comp_Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="IND_0603">
+      <description>INDUCTOR, SMD, 0603</description>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">IND_0603</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0603</field>
+        <field name="Comp_Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="IND_1008">
+      <description>INDUCTOR, SMD, 1008</description>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">IND_1008</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_1008</field>
+        <field name="Comp_Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD_Passives" part="RES_0603">
+      <description>RESISTOR, SMD, 0603</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RES_0603</field>
+        <field name="Footprint">SMD_Passives_Reflow:SMD_0603</field>
+        <field name="Comp_Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\Programs\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connectors_Coax">
+      <uri>C:/Users/jakem/Documents/KiCad/6.0/libraries/Connectors_Coax.kicad_sym</uri>
+    </library>
+    <library logical="Connectors_Header">
+      <uri>C:/Users/jakem/Documents/KiCad/6.0/libraries/Connectors_Header.kicad_sym</uri>
+    </library>
+    <library logical="DDS_FunctionGenerator_Library">
+      <uri>C:\Users\jakem\Documents\KiCad\6.0\projects\DDS_FunctionGen\DDS_FunctionGenerator/DDS_FunctionGenerator_Library.kicad_sym</uri>
+    </library>
+    <library logical="Interface">
+      <uri>D:\Programs\KiCad\6.0\share\kicad\symbols\/Interface.kicad_sym</uri>
+    </library>
+    <library logical="Mounting_Holes">
+      <uri>C:/Users/jakem/Documents/KiCad/6.0/libraries/Mounting_Holes.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>D:\Programs\KiCad\6.0\share\kicad\symbols\/Oscillator.kicad_sym</uri>
+    </library>
+    <library logical="SMD_Passives">
+      <uri>C:/Users/jakem/Documents/KiCad/6.0/libraries/SMD_Passives.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U7" pin="5" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VIN" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U2" pin="2" pinfunction="SENSE/ADJ" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="VDD" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="AVDD" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="3" name="-5V">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U6" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="4" name="-5V8">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U4" pin="13" pinfunction="EP" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="SOUT" pintype="passive"/>
+    </net>
+    <net code="5" name="/-5V8-EN">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="EN/UVLO" pintype="passive"/>
+    </net>
+    <net code="6" name="/5V-EN">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="EN/UVLO" pintype="passive"/>
+    </net>
+    <net code="7" name="/BST">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="BST" pintype="passive"/>
+    </net>
+    <net code="8" name="/DDS/CAP2V5">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="CAP/2.5V" pintype="passive"/>
+    </net>
+    <net code="9" name="/DDS/COMP">
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="COMP" pintype="passive"/>
+    </net>
+    <net code="10" name="/DDS/DDS-VIN">
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U7" pin="17" pinfunction="VIN" pintype="passive"/>
+    </net>
+    <net code="11" name="/DDS/FILT-IN">
+      <node ref="K1" pin="7" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="TP20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/DDS/FS-ADJUST">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="FS_ADJUST" pintype="passive"/>
+    </net>
+    <net code="13" name="/DDS/FSELECT">
+      <node ref="J4" pin="8" pinfunction="PIN_8" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="FSELECT" pintype="input"/>
+    </net>
+    <net code="14" name="/DDS/FSYNC">
+      <node ref="J4" pin="5" pinfunction="PIN_5" pintype="passive"/>
+      <node ref="U7" pin="15" pinfunction="~{FSYNC}" pintype="input"/>
+    </net>
+    <net code="15" name="/DDS/IOUT">
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="TP22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="19" pinfunction="IOUT" pintype="output"/>
+    </net>
+    <net code="16" name="/DDS/IOUTB">
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="TP17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="20" pinfunction="IOUTB" pintype="output"/>
+    </net>
+    <net code="17" name="/DDS/MCLK">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="MCLK" pintype="input"/>
+    </net>
+    <net code="18" name="/DDS/PSELECT">
+      <node ref="J4" pin="7" pinfunction="PIN_7" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="PSELECT" pintype="input"/>
+    </net>
+    <net code="19" name="/DDS/REFOUT">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="REFOUT" pintype="output"/>
+    </net>
+    <net code="20" name="/DDS/RESET">
+      <node ref="J4" pin="3" pinfunction="PIN_3" pintype="passive"/>
+      <node ref="U7" pin="11" pinfunction="RESET" pintype="input"/>
+    </net>
+    <net code="21" name="/DDS/SCLK">
+      <node ref="J4" pin="2" pinfunction="PIN_2" pintype="passive"/>
+      <node ref="U7" pin="14" pinfunction="SCLK" pintype="input"/>
+    </net>
+    <net code="22" name="/DDS/SDATA">
+      <node ref="J4" pin="4" pinfunction="PIN_4" pintype="passive"/>
+      <node ref="U7" pin="13" pinfunction="SDATA" pintype="input"/>
+    </net>
+    <net code="23" name="/DDS/SIGNBITOUT">
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U7" pin="16" pinfunction="SIGNBITOUT" pintype="output"/>
+    </net>
+    <net code="24" name="/DDS/SLEEP">
+      <node ref="J4" pin="6" pinfunction="PIN_6" pintype="passive"/>
+      <node ref="U7" pin="12" pinfunction="SLEEP" pintype="input"/>
+    </net>
+    <net code="25" name="/FB">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="FB" pintype="passive"/>
+    </net>
+    <net code="26" name="/LX">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="LX" pintype="passive"/>
+    </net>
+    <net code="27" name="/Output_Stage/ELLIP-IN">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="K1" pin="12" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="/Output_Stage/ELLIP-OUT">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="K2" pin="12" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="/Output_Stage/FILT-EN">
+      <node ref="J4" pin="10" pinfunction="PIN_10" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="30" name="/Output_Stage/FILT-OUT">
+      <node ref="K2" pin="7" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="+IN" pintype="input"/>
+    </net>
+    <net code="31" name="/Output_Stage/FILT-SWITCH">
+      <node ref="J4" pin="9" pinfunction="PIN_9" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="VIN" pintype="passive"/>
+    </net>
+    <net code="32" name="/Output_Stage/FILTER-SW-IN">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="/Output_Stage/FILTER-SW-OUT">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="/Output_Stage/LIN-PHASE-IN">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="K1" pin="10" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="/Output_Stage/LIN-PHASE-OUT">
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="K2" pin="10" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="/Output_Stage/OUT">
+      <node ref="J5" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/PG">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="PG" pintype="passive"/>
+    </net>
+    <net code="38" name="/RESET">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="RESET" pintype="passive"/>
+    </net>
+    <net code="39" name="/RT{slash}SYNC">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="RT/SYNC" pintype="passive"/>
+    </net>
+    <net code="40" name="/SS">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="SS" pintype="passive"/>
+    </net>
+    <net code="41" name="/VCC">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="42" name="/VIN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VIN" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="43" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="PIN_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="K1" pin="6" pintype="passive"/>
+      <node ref="K2" pin="6" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="POT1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="18" pinfunction="AGND" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="DGND" pintype="passive"/>
+      <node ref="X1" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="OUT" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(C38-Pad1)">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="TP18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(C38-Pad2)">
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pintype="output"/>
+    </net>
+    <net code="52" name="Net-(C46-Pad2)">
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="TP23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="+IN" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(POT1-Pad1)">
+      <node ref="POT1" pin="1" pintype="passive"/>
+      <node ref="POT1" pin="3" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="output"/>
+    </net>
+    <net code="58" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="X1" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="59" name="VDD-MCLK">
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="TP21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X1" pin="4" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="60" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U8-Pad1)">
+      <node ref="U8" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U8-Pad5)">
+      <node ref="U8" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U8-Pad8)">
+      <node ref="U8" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(X1-Pad1)">
+      <node ref="X1" pin="1" pinfunction="Tri-State" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,222 @@
+Source:,C:\Users\jakem\Documents\KiCad\6.0\projects\DDS_FunctionGen\DDS_FunctionGenerator\DDS_FunctionGenerator.kicad_sch,,,,,,,
+Date:,1/28/2023 16:16,,,,,,,
+Tool:,Eeschema (6.0.6),,,,,,,
+Generator:,D:\Programs\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,
+Component Count:,137,,,,,,,
+,,,,,,,,
+Individual Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Comp_Value,Part_Number
+,,C1,10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+,,C2,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C3,10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+,,C4,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C5,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C6,10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+,,C7,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C8,10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+,,C9,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C10,10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+,,C11,C11-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,10u,GRM21BR61H106KE43L
+,,C12,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,06035C104JAT4A
+,,C13,5n6,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,5n6,06035C562JAT2A
+,,C14,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C15,C15-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM188R6YA225KA12D
+,,C16,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C17,8.6508E+11,DDS_FunctionGenerator_Library:865080345010,DDS_FunctionGenerator_Library:865080345010,,150u,8.6508E+11
+,,C18,8.6508E+11,DDS_FunctionGenerator_Library:865080345010,DDS_FunctionGenerator_Library:865080345010,,150u,8.6508E+11
+,,C19,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C20,20p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,20p,GCM1885C2A200FA16D
+,,C21,82p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,82p,GCM1885C2A820FA16D
+,,C22,33p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,33p,GRM1885C2A330FA01D
+,,C23,82p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,82p,GCM1885C2A820FA16D
+,,C24,39p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,39p ,GRM1885C1H390FA01J
+,,C25,160p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,160p,GCM1885C2A161GA16J
+,,C26,220p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,220p,GCM1885C2A221FA16D
+,,C27,240p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,240p,GRM1885C1H241GA01J
+,,C28,180p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,180p,VJ0603A181FXACW1BC
+,,C29,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C30,62p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,62p,GCM1885C2A620FA16D
+,,C31,200p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,200p,GCM1885C2A201FA16J
+,,C32,270p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,270p,GCM1885C2A271FA16D
+,,C33,510p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,510p,GRM1885C1H511GA01D
+,,C34,10u,SMD_Passives:CAP_POL_0805,SMD_Passives_Reflow:SMD_POL_0805,,10u,TMCP1A106KTRF
+,,C35,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C36,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C37,10u,SMD_Passives:CAP_POL_0805,SMD_Passives_Reflow:SMD_POL_0805,,10u,TMCP1A106KTRF
+,,C38,500f,SMD_Passives:CAP_0402,SMD_Passives_Reflow:SMD_0402,,500f,GJM1555C1HR50WB01D
+,,C39,10n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,10n,C0603C103J5RACTU
+,,C40,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C41,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C42,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C43,C43-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM1885C1H200GA01J
+,,C44,C44-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM1885C1H200GA01J
+,,C45,100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,C0603C104J5RACTU
+,,C46,C46-DNI,SMD_Passives:CAP_0402,SMD_Passives_Reflow:SMD_0402,,DNI,GJM1555C1HR50WB01D
+,,C47,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C48,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C49,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,C50,2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+,,D1,1N4148W-E3-18,DDS_FunctionGenerator_Library:1N4148W-E3-18,DDS_FunctionGenerator_Library:SOD-123,,,1N4148W-E3-18
+,,D2,1N4148W-E3-18,DDS_FunctionGenerator_Library:1N4148W-E3-18,DDS_FunctionGenerator_Library:SOD-123,,,1N4148W-E3-18
+,,FB1,470R @ 100 MHz,SMD_Passives:BEAD_0603,SMD_Passives_Reflow:SMD_0603,,470R @ 100MHz,MMZ1608B471CTAH0
+,,H1,0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA-6-32,,,4817
+,,H2,0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA-6-32,,,4817
+,,H3,0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA-6-32,,,4817
+,,H4,0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA-6-32,,,4817
+,,J1,6.91411E+11,DDS_FunctionGenerator_Library:691411410002,DDS_FunctionGenerator_Library:691411410002,,,6.91411E+11
+,,J2,SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,,,901-144-8RFX
+,,J3,SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,,,901-144-8RFX
+,,J4,HEADER_01X10,Connectors_Header:HEADER_01X10,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical,,,61301011821
+,,J5,SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,,,901-144-8RFX
+,,K1,DS1E-SL-DC5V,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,,,DS1E-SL-DC5V
+,,K2,DS1E-SL-DC5V,:DS1E-SL-DC5V_1,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,,,DS1E-SL-DC5V
+,,L1,33u,DDS_FunctionGenerator_Library:7447715330,DDS_FunctionGenerator_Library:7447715330,,33u,7447715330
+,,L2,330n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,330n,LQW2UASR33F00L
+,,L3,390n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,390n,LQW2UASR39F00L
+,,L4,620n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,620n,LQW2UASR62F0CL
+,,L5,470n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,470n,LQW2UASR47F0CL
+,,L6,390n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,390n,LQW2UASR39F00L
+,,L7,580n,SMD_Passives:IND_0603,SMD_Passives_Reflow:SMD_0603,,580n,LQW18CAR58J00D
+,,L8,820n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,820n,LQW2UASR82F00L
+,,POT1,PTN10-E200HB20,DDS_FunctionGenerator_Library:PTN10-E200HB20,DDS_FunctionGenerator_Library:PTN10-E200HB20,,200k,PTN10-E200HB20
+,,Q1,BFR182W,DDS_FunctionGenerator_Library:BFR182W,DDS_FunctionGenerator_Library:SOT323_BFR182W,,,BFR182W
+,,Q2,BFR182W,DDS_FunctionGenerator_Library:BFR182W,DDS_FunctionGenerator_Library:SOT323_BFR182W,,,BFR182W
+,,R1,100k,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100k,RT0603DRE10100KL
+,,R2,100k,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100k,RT0603DRE10100KL
+,,R3,28k7,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,28k7,RT0603DRE0728K7L
+,,R4,3M32,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,3M32,RC0603FR-073M32L
+,,R5,1M,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1M,RC0603FR-101ML
+,,R6,53k6,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,53k6,RT0603DRE0753K6L
+,,R7,10k,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,10k,RT0603FRE1310KL
+,,R8,7k87,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,7k87,RT0603DRE077K87L
+,,R9,9k76,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,9k76,RT0603DRE079K76L
+,,R10,499R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,499R,RT0603DRD07499RL
+,,R11,499R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,499R,RT0603DRD07499RL
+,,R12,249R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,249R,RT0603BRD07249RL
+,,R13,100R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100R,CRCW0603100RFKEAHP
+,,R14,100R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100R,CRCW0603100RFKEAHP
+,,R15,249R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,249R,RT0603BRD07249RL
+,,R16,1k78,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k78,RT0603DRD071K78L
+,,R17,6k8,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,6k8,RT0603DRE076K8L
+,,R18,499R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,499R,RT0603DRE07499RL
+,,R19,1k5,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k5,RT0603DRE071K5L
+,,R20,49R9,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,49R9,RT0603DRE0749R9L
+,,R21,200R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,200R,RT0603DRE07200RL
+,,R22,200R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,200R,RT0603DRE07200RL
+,,R23,0R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,0R,RC0603FR-070RL
+,,R24,499R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,499R,RT0603DRE07499RL
+,,R25,1k78,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k78,RT0603DRD071K78L
+,,R26,1k5,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k5,RT0603DRE071K5L
+,,TP1,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP2,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP3,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP4,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP5,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP6,TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+,,TP7,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP8,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP9,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP11,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP12,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP13,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP14,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP15,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP16,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP17,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP18,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP20,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP21,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP22,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP23,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP24,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP25,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP26,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP27,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP28,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,TP29,TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+,,U1,ADP151AUJZ,DDS_FunctionGenerator_Library:ADP151AUJZ,DDS_FunctionGenerator_Library:TSOT_5Pin,,,ADP151AUJZ-3.3-R7
+,,U2,ADP7102,DDS_FunctionGenerator_Library:ADP7102,DDS_FunctionGenerator_Library:LFCSP_WD_8Pin,,,ADP7102ACPZ-5.0-R7
+,,U3,ADP7182AUJZ,DDS_FunctionGenerator_Library:ADP7182AUJZ,DDS_FunctionGenerator_Library:TSOT_5Pin,,,ADP7182AUJZ-5.0-R7
+,,U4,MAX17580ATC+,DDS_FunctionGenerator_Library:MAX17580ATC+,DDS_FunctionGenerator_Library:TDFN-EP_12Pin,,,MAX17580ATC+
+,,U5,MCP14A0602-E/SN,DDS_FunctionGenerator_Library:MCP14A0602-E{slash}SN,DDS_FunctionGenerator_Library:SOIC_8Pin,,,MCP14A0602-E/SN
+,,U6,LT1815IS5,DDS_FunctionGenerator_Library:LT1815IS5,DDS_FunctionGenerator_Library:TSOT-23_S5-Package,,,LT1815IS5
+,,U7,AD9834,Interface:AD9834,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf,,AD9834
+,,U8,LT1818IS8,DDS_FunctionGenerator_Library:LT1818IS8,DDS_FunctionGenerator_Library:S8_Package_LT1818,,,LT1818IS8
+,,X1,ECS-TXO-2520MV-500-AY-TR,Oscillator:ECS-2520MV-xxx-xx,Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf,,ECS-TXO-2520MV-500-AY-TR
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Collated Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Comp_Value,Part_Number
+1,5,"C1, C3, C6, C8, C10",10u,SMD_Passives:CAP_0805,SMD_Passives_Reflow:SMD_0805,,10u,GRM21BR61H106KE43L
+2,13,"C2, C4, C5, C7, C9, C14, C16, C19, C29, C47, C48, C49, C50",2u2,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,2u2,GRM188R6YA225KA12D
+3,1,C11,C11-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,10u,GRM21BR61H106KE43L
+4,7,"C12, C35, C36, C40, C41, C42, C45",100n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,100n,06035C104JAT4A
+5,1,C13,5n6,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,5n6,06035C562JAT2A
+6,1,C15,C15-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM188R6YA225KA12D
+7,2,"C17, C18",8.6508E+11,DDS_FunctionGenerator_Library:865080345010,DDS_FunctionGenerator_Library:865080345010,,150u,865080345010
+8,1,C20,20p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,20p,GCM1885C2A200FA16D
+9,2,"C21, C23",82p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,82p,GCM1885C2A820FA16D
+10,1,C22,33p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,33p,GRM1885C2A330FA01D
+11,1,C24,39p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,39p ,GRM1885C1H390FA01J
+12,1,C25,160p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,160p,GCM1885C2A161GA16J
+13,1,C26,220p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,220p,GCM1885C2A221FA16D
+14,1,C27,240p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,240p,GRM1885C1H241GA01J
+15,1,C28,180p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,180p,VJ0603A181FXACW1BC
+16,1,C30,62p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,62p,GCM1885C2A620FA16D
+17,1,C31,200p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,200p,GCM1885C2A201FA16J
+18,1,C32,270p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,270p,GCM1885C2A271FA16D
+19,1,C33,510p,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,510p,GRM1885C1H511GA01D
+20,2,"C34, C37",10u,SMD_Passives:CAP_POL_0805,SMD_Passives_Reflow:SMD_POL_0805,,10u,TMCP1A106KTRF
+21,1,C38,500f,SMD_Passives:CAP_0402,SMD_Passives_Reflow:SMD_0402,,500f,GJM1555C1HR50WB01D
+22,1,C39,10n,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,10n,C0603C103J5RACTU
+23,1,C43,C43-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM1885C1H200GA01J
+24,1,C44,C44-DNI,SMD_Passives:CAP_0603,SMD_Passives_Reflow:SMD_0603,,DNI,GRM1885C1H200GA01J
+25,1,C46,C46-DNI,SMD_Passives:CAP_0402,SMD_Passives_Reflow:SMD_0402,,DNI,GJM1555C1HR50WB01D
+26,2,"D1, D2",1N4148W-E3-18,DDS_FunctionGenerator_Library:1N4148W-E3-18,DDS_FunctionGenerator_Library:SOD-123,,,1N4148W-E3-18
+27,1,FB1,470R @ 100 MHz,SMD_Passives:BEAD_0603,SMD_Passives_Reflow:SMD_0603,,470R @ 100MHz,MMZ1608B471CTAH0
+28,4,"H1, H2, H3, H4",0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA,Mounting_Holes:0.152_IN_DIA-6-32,,,4817
+29,1,J1,6.91411E+11,DDS_FunctionGenerator_Library:691411410002,DDS_FunctionGenerator_Library:691411410002,,,691411410002
+30,3,"J2, J3, J5",SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,Connectors_Coax:SMA_CONN_TH,,,901-144-8RFX
+31,1,J4,HEADER_01X10,Connectors_Header:HEADER_01X10,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical,,,61301011821
+32,1,K1,DS1E-SL-DC5V,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,,,DS1E-SL-DC5V
+33,1,K2,DS1E-SL-DC5V,:DS1E-SL-DC5V_1,DDS_FunctionGenerator_Library:DS1E-SL-DC5V,,,DS1E-SL-DC5V
+34,1,L1,33u,DDS_FunctionGenerator_Library:7447715330,DDS_FunctionGenerator_Library:7447715330,,33u,7447715330
+35,1,L2,330n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,330n,LQW2UASR33F00L
+36,2,"L3, L6",390n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,390n,LQW2UASR39F00L
+37,1,L4,620n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,620n,LQW2UASR62F0CL
+38,1,L5,470n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,470n,LQW2UASR47F0CL
+39,1,L7,580n,SMD_Passives:IND_0603,SMD_Passives_Reflow:SMD_0603,,580n,LQW18CAR58J00D
+40,1,L8,820n,SMD_Passives:IND_1008,SMD_Passives_Reflow:SMD_1008,,820n,LQW2UASR82F00L
+41,1,POT1,PTN10-E200HB20,DDS_FunctionGenerator_Library:PTN10-E200HB20,DDS_FunctionGenerator_Library:PTN10-E200HB20,,200k,PTN10-E200HB20
+42,2,"Q1, Q2",BFR182W,DDS_FunctionGenerator_Library:BFR182W,DDS_FunctionGenerator_Library:SOT323_BFR182W,,,BFR182W
+43,2,"R1, R2",100k,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100k,RT0603DRE10100KL
+44,1,R3,28k7,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,28k7,RT0603DRE0728K7L
+45,1,R4,3M32,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,3M32,RC0603FR-073M32L
+46,1,R5,1M,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1M,RC0603FR-101ML
+47,1,R6,53k6,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,53k6,RT0603DRE0753K6L
+48,1,R7,10k,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,10k,RT0603FRE1310KL
+49,1,R8,7k87,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,7k87,RT0603DRE077K87L
+50,1,R9,9k76,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,9k76,RT0603DRE079K76L
+51,4,"R10, R11, R18, R24",499R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,499R,RT0603DRD07499RL
+52,2,"R12, R15",249R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,249R,RT0603BRD07249RL
+53,2,"R13, R14",100R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,100R,CRCW0603100RFKEAHP
+54,2,"R16, R25",1k78,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k78,RT0603DRD071K78L
+55,1,R17,6k8,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,6k8,RT0603DRE076K8L
+56,2,"R19, R26",1k5,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,1k5,RT0603DRE071K5L
+57,1,R20,49R9,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,49R9,RT0603DRE0749R9L
+58,2,"R21, R22",200R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,200R,RT0603DRE07200RL
+59,1,R23,0R,SMD_Passives:RES_0603,SMD_Passives_Reflow:SMD_0603,,0R,RC0603FR-070RL
+60,6,"TP1, TP2, TP3, TP4, TP5, TP6",TestPoint_1.5mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,,N/A
+61,21,"TP7, TP8, TP9, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29",TestPoint_0.8mm_PAD,Connector:TestPoint,TestPoint:TestPoint_Pad_D0.8mm,~,,N/A
+62,1,U1,ADP151AUJZ,DDS_FunctionGenerator_Library:ADP151AUJZ,DDS_FunctionGenerator_Library:TSOT_5Pin,,,ADP151AUJZ-3.3-R7
+63,1,U2,ADP7102,DDS_FunctionGenerator_Library:ADP7102,DDS_FunctionGenerator_Library:LFCSP_WD_8Pin,,,ADP7102ACPZ-5.0-R7
+64,1,U3,ADP7182AUJZ,DDS_FunctionGenerator_Library:ADP7182AUJZ,DDS_FunctionGenerator_Library:TSOT_5Pin,,,ADP7182AUJZ-5.0-R7
+65,1,U4,MAX17580ATC+,DDS_FunctionGenerator_Library:MAX17580ATC+,DDS_FunctionGenerator_Library:TDFN-EP_12Pin,,,MAX17580ATC+
+66,1,U5,MCP14A0602-E/SN,DDS_FunctionGenerator_Library:MCP14A0602-E{slash}SN,DDS_FunctionGenerator_Library:SOIC_8Pin,,,MCP14A0602-E/SN
+67,1,U6,LT1815IS5,DDS_FunctionGenerator_Library:LT1815IS5,DDS_FunctionGenerator_Library:TSOT-23_S5-Package,,,LT1815IS5
+68,1,U7,AD9834,Interface:AD9834,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,https://www.analog.com/static/imported-files/data_sheets/AD9834.pdf,,AD9834
+69,1,U8,LT1818IS8,DDS_FunctionGenerator_Library:LT1818IS8,DDS_FunctionGenerator_Library:S8_Package_LT1818,,,LT1818IS8
+70,1,X1,ECS-TXO-2520MV-500-AY-TR,Oscillator:ECS-2520MV-xxx-xx,Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf,,ECS-TXO-2520MV-500-AY-TR

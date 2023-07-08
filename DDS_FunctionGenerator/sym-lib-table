@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DDS_FunctionGenerator_Library")(type "KiCad")(uri "${KIPRJMOD}/DDS_FunctionGenerator_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "DDS_FunctionGenerator-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DDS_FunctionGenerator-altium-import.kicad_sym")(options "")(descr "")(disabled))
+)
